@@ -1,0 +1,33 @@
+_repo: '----------------------_36095'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karolides, Paulos
+    aliases:
+    - Καρολίδης, Παύλος
+    - Karolidis, Pavlos
+    - Carolidis, P.
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '38079'
+    url: http://www.gutenberg.org/2009/agents/38079
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%BF%CE%BB%CE%AF%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36095'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byzantine Empire -- History -- Heraclius, 610-641'
+- !lcc 'PA'
+- !lcsh 'Heraclius, Emperor of the East, approximately 575-641'
+- !lcc 'DF'
+title: Ο Αυτοκράτωρ Ηράκλειος
+url: http://www.gutenberg.org/ebooks/36095
